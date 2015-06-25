@@ -1,0 +1,9 @@
+<ion-view view-title="Aliens">
+  <ion-content>
+    <ion-list>
+      <ion-item ng-repeat="alien in aliens | orderBy:'+name'" href="#/app/aliens/{{alien.name}}">
+        {{alien.name}}
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

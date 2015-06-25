@@ -1,0 +1,12 @@
+[
+	{ 
+		"name": "fff",
+		"power": "You have the power to Multiply. As a main player, after you reveal an attack card in an encounter, use this power to multiply the number of ships you have in the encounter times the value of your card instead of adding. Your allies' ships are still added to your total as usual.",
+		"level": "expert",
+		"wild": "As a main player you may multiply the number of ships you have in the encounter by the number of ships allied with you instead of adding them.",
+		"super": "You may multiply the total of all ships on your side by your attack card when using your power, not just your own.",
+		"history": "Able to multiply rapidly in the presence of other life forms, the Virus soon overwhelmed its own planets and now waits for opportunities to proliferate throughout the Universe.",
+		"summary": "Mutiplies in Attack",
+		"xpac": "Base Game"
+	}
+]
